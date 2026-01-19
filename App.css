@@ -1,0 +1,15 @@
+/* app.css */
+
+.landing-page {
+  background-image: url(' https://www.cairo24.com/2261881'); 
+  background-size: cover;    
+  background-position: center;  
+  background-repeat: no-repeat;  
+  height: 100vh;                
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;                 
+  text-align: center;
+}
